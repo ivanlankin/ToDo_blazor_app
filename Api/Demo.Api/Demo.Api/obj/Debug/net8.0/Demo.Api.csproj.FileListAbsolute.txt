@@ -1,0 +1,411 @@
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\appsettings.json
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.exe
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.deps.json
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.runtimeconfig.json
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.pdb
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Humanizer.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.CodeDom.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.AssemblyReference.cache
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.AssemblyInfoInputs.cache
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.AssemblyInfo.cs
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.CoreCompileInputs.cache
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.Demo.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo.Api.props
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo.Api.props
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo.Api.props
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\scopedcss\bundle\Demo.Api.styles.css
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.Up2Date
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\refint\Demo.Api.dll
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.pdb
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.genruntimeconfig.cache
+F:\gitlib\NewSol\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\ref\Demo.Api.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\appsettings.json
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.exe
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.deps.json
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.runtimeconfig.json
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.pdb
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Humanizer.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.CodeDom.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.AssemblyReference.cache
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.AssemblyInfoInputs.cache
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.AssemblyInfo.cs
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.CoreCompileInputs.cache
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.Demo.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo.Api.props
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo.Api.props
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo.Api.props
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\scopedcss\bundle\Demo.Api.styles.css
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.Up2Date
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\refint\Demo.Api.dll
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.pdb
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.genruntimeconfig.cache
+F:\gitlib\NewSol — копия\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\ref\Demo.Api.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\appsettings.Development.json
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\appsettings.json
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.exe
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.deps.json
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.runtimeconfig.json
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Demo.Api.pdb
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Azure.Core.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Azure.Identity.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Humanizer.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.CodeDom.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Memory.Data.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.AssemblyReference.cache
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.AssemblyInfoInputs.cache
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.AssemblyInfo.cs
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.CoreCompileInputs.cache
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.build.json
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.development.json
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.Demo.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Demo.Api.props
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Demo.Api.props
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Demo.Api.props
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\staticwebassets.pack.json
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\scopedcss\bundle\Demo.Api.styles.css
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.csproj.Up2Date
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\refint\Demo.Api.dll
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.pdb
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\Demo.Api.genruntimeconfig.cache
+F:\gitlib\NewSol_2\Api\Demo.Api\Demo.Api\obj\Debug\net8.0\ref\Demo.Api.dll

@@ -1,0 +1,136 @@
+﻿@page "/todo"
+
+@using BlazorWebApp.Models.ApiModels;
+@using System.Collections;
+@using Microsoft.AspNetCore.Components.Web;
+@using Microsoft.AspNetCore.Authentication.Cookies;
+@using Microsoft.AspNetCore.Authentication;
+@using System.Security.Claims;
+@using System.Security.Principal;
+@using Microsoft.AspNetCore.Identity;
+@using Microsoft.AspNetCore.SignalR;
+@using Microsoft.AspNetCore.Http;
+@using Microsoft.AspNetCore.Authentication.OpenIdConnect;
+@inject DemoApiClientService apiClient
+@rendermode InteractiveServer
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col">
+            <h2 class="text-center">Список фильмов</h2>
+            @if (taskToDos != null)
+            {
+                <h6 class="text-center" style="color: #999999">Незавершенных: @taskToDos.Count(item => !item.Success)</h6>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Название</th>
+                            <th scope="col">Отметка</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in taskToDos)//.OrderBy(t => t.Success))
+                        {
+                            <tr>
+                                <td>
+                                    <div style="@(item.Success ? "color: green": "color: red")">
+                                        @item.TaskName
+                                    </div>
+                                </td>
+                                <td>
+                                    @if (!item.Success)
+                                    {
+                                        <input type="checkbox" @key="@item.Id" value="@item.Success" @onchange="async () => await StatusChanger(item)" />
+                                    }
+                                    else
+                                    {
+                                        <input type="checkbox" checked @key="@item.Id" value="@item.Success" @onchange="async () => await StatusChanger(item)" />
+                                    }
+                                </td>
+                                <td>
+                                    <button class="btn btn-danger" @onclick="async () => await DeleteTaskToDo(item.Id)">Удалить</button>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <h6 class="text-center" style="color: #999999">Загрузка...</h6>
+            }
+            <form @onsubmit=Enter>
+                <div class="row">
+                    <div class="col">
+                        <input class="form-control" placeholder="Место для ввода" @bind="newTodo" />
+                    </div>
+                    <div class="col">
+                        <button class="btn btn-success">Добавить</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@code {
+    //public HttpContext? HttpContext { get; }
+    public string? userName = "current_user";
+
+    private List<TaskToDo>? taskToDos;
+    private TaskToDo addTaskToDoModel = new();
+    private string newTodo;
+
+    protected override async Task OnInitializedAsync()
+    {
+        //userName = userService.GetUser().Identity.Name;
+        await LoadTaskToDos();
+        Console.WriteLine($"Загрузка задач завершена");
+        
+    }
+
+    private async Task LoadTaskToDos()
+    {
+        taskToDos = await apiClient.GetTaskToDos();
+        Console.WriteLine($"Обращение к API");
+    }
+
+    private async Task AddTaskToDo()
+    {
+        await apiClient.SaveTaskToDo(addTaskToDoModel);
+        await LoadTaskToDos();
+        addTaskToDoModel = new();
+    }
+
+    private async Task EditTaskToDo(TaskToDo taskToDo)
+    {
+        await apiClient.UpdateTaskToDo(taskToDo);
+        await LoadTaskToDos();
+    }
+
+    private async Task DeleteTaskToDo(int id)
+    {
+        await apiClient.DeleteTaskToDo(id);
+        await LoadTaskToDos();
+    }
+
+    private async Task Enter()
+    {
+        Console.WriteLine($"нажали Enter");
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            addTaskToDoModel.TaskName = newTodo;
+            addTaskToDoModel.UserName = userName;
+            Console.WriteLine($"Добавление новой задачи: {newTodo}");
+            await AddTaskToDo();
+            newTodo = string.Empty;
+        }
+    }
+
+    private async Task StatusChanger(TaskToDo changedItem)
+    {
+        changedItem.Success = !changedItem.Success;
+        await EditTaskToDo(changedItem);
+    }
+}

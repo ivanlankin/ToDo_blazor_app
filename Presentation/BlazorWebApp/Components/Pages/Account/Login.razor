@@ -1,0 +1,84 @@
+﻿@page "/login"
+
+@using BlazorWebApp.Models.ApiModels;
+@using System.Collections;
+@using Microsoft.AspNetCore.Components.Web;
+@using System.Security.Claims;
+@using Microsoft.AspNetCore.Authentication.Cookies;
+@using Microsoft.AspNetCore.Authentication;
+@using Microsoft.AspNetCore.Authentication.OpenIdConnect;
+@using Microsoft.IdentityModel.Protocols.OpenIdConnect;
+@using System.Text;
+@inject DemoApiClientService apiClient
+@inject NavigationManager navigationManager
+
+<div class="login-form">
+    <header>Вход в аккаунт</header>
+
+    <EditForm Model="@Model" OnValidSubmit="Authenticate" FormName="LoginForm">
+        <DataAnnotationsValidator />
+
+        @if (ErrorMessage != null)
+        {
+            <div class="auth-error">
+                <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
+                <span class="error-message">@ErrorMessage</span>
+            </div>
+        }
+
+        <div class="field input-field">
+            <InputText @bind-Value="Model.UserName" class="input" placeholder="Логин" maxlength="50" />
+            <ValidationMessage For="() => Model.UserName" />
+        </div>
+
+        <div class="field input-field">
+            <InputText @bind-Value="Model.Password" class="password" type="password" maxlength="50" placeholder="Пароль" />
+            <ValidationMessage For="() => Model.Password" />
+            <i class='bx bx-hide eye-icon'></i>
+        </div>
+
+        <div class="field button-field">
+            <button type="submit">Войти</button>
+        </div>
+    </EditForm>
+
+    <div class="form-link">
+        <span>Нет аккаунта? <a href="/register" class="link signup-link">Зарегистрироваться</a></span>
+    </div>
+</div>
+
+@code {
+    [CascadingParameter]
+    public HttpContext? HttpContext{ get; set; }
+
+    [SupplyParameterFromForm]
+    public UserAccount Model { get; set; } = new();
+
+    private string? ErrorMessage;
+
+    private List<UserAccount>? listUserAccounts;
+
+    private async Task Authenticate()
+    {
+        listUserAccounts = await apiClient.GetUser();
+        Console.WriteLine(listUserAccounts);
+        var userAccount = listUserAccounts.Where(x => x.UserName == Model.UserName).FirstOrDefault();
+        if (userAccount is null || userAccount.Password != Model.Password)
+        {
+            ErrorMessage = "Неправильный логин или пароль";
+            return;
+        }
+
+        var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, Model.UserName)
+        };
+
+        var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+        var principal = new ClaimsPrincipal(identity);
+        await HttpContext.SignInAsync(principal);
+        //userService.SetUser(principal);
+        navigationManager.NavigateTo("/");
+    }
+
+}

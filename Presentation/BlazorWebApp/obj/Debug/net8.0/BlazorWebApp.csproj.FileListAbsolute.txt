@@ -1,0 +1,130 @@
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\appsettings.Development.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\appsettings.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.staticwebassets.runtime.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.exe
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.deps.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.runtimeconfig.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.pdb
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.csproj.AssemblyReference.cache
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.AssemblyInfoInputs.cache
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.AssemblyInfo.cs
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.csproj.CoreCompileInputs.cache
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorWebApp.props
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWebApp.props
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorWebApp.props
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\bundle\BlazorWebApp.styles.css
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorWebApp.bundle.scp.css
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWe.942CA37E.Up2Date
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\refint\BlazorWebApp.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.pdb
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.genruntimeconfig.cache
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\ref\BlazorWebApp.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.MvcApplicationPartsAssemblyInfo.cs
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\ApiClient.deps.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\ApiClient.runtimeconfig.json
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\ApiClient.exe
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\ApiClient.dll
+F:\gitlib\NewSol\Presentation\BlazorWebApp\bin\Debug\net8.0\ApiClient.pdb
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.csproj.AssemblyReference.cache
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.AssemblyInfoInputs.cache
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.AssemblyInfo.cs
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.csproj.CoreCompileInputs.cache
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\refint\BlazorWebApp.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.pdb
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\appsettings.Development.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\appsettings.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.staticwebassets.runtime.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.exe
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.deps.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.runtimeconfig.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.pdb
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorWebApp.props
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWebApp.props
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorWebApp.props
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\bundle\BlazorWebApp.styles.css
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorWebApp.bundle.scp.css
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWe.942CA37E.Up2Date
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.genruntimeconfig.cache
+F:\gitlib\NewSol — копия\Presentation\BlazorWebApp\obj\Debug\net8.0\ref\BlazorWebApp.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\appsettings.Development.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\appsettings.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.staticwebassets.runtime.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.exe
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.deps.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.runtimeconfig.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\BlazorWebApp.pdb
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\RabbitMQ.Client.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.csproj.AssemblyReference.cache
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.AssemblyInfoInputs.cache
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.AssemblyInfo.cs
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.csproj.CoreCompileInputs.cache
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.build.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.development.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.BlazorWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorWebApp.props
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorWebApp.props
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorWebApp.props
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\staticwebassets.pack.json
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\bundle\BlazorWebApp.styles.css
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\scopedcss\projectbundle\BlazorWebApp.bundle.scp.css
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWe.942CA37E.Up2Date
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\refint\BlazorWebApp.dll
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.pdb
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\BlazorWebApp.genruntimeconfig.cache
+F:\gitlib\NewSol_2\Presentation\BlazorWebApp\obj\Debug\net8.0\ref\BlazorWebApp.dll

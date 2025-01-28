@@ -1,0 +1,122 @@
+﻿@page "/register"
+
+@using BlazorWebApp.Models;
+@using BlazorWebApp.Models.ApiModels;
+@using System.Collections;
+@using Microsoft.AspNetCore.Components.Web;
+@using System.Security.Claims;
+@using Microsoft.AspNetCore.Authentication;
+@using Microsoft.AspNetCore.Authentication.Cookies;
+@using Microsoft.AspNetCore.Authentication.OpenIdConnect;
+@using Microsoft.IdentityModel.Protocols.OpenIdConnect;
+@using System.Text;
+@inject DemoApiClientService apiClient
+@inject NavigationManager navigationManager
+
+<div class="signup-form">
+    <header>Регистрация</header>
+
+    <EditForm Model="@Model" OnValidSubmit="Authenticate" FormName="RegisterForm">
+        <DataAnnotationsValidator />
+
+        @if (ErrorMessage != null)
+        {
+            <div class="auth-error">
+                <i class="fa fa-exclamation-circle" aria-hidden="true"></i>
+                <span class="error-message">@ErrorMessage</span>
+            </div>
+        }
+
+        <div class="field input-field">
+            <InputText @bind-Value="Model.UserName" class="input" placeholder="Логин" maxlength="30" />
+            <ValidationMessage For="() => Model.UserName" />
+        </div>
+
+        <div class="field input-field">
+            <InputText @bind-Value="Model.Password" class="password" type="password" maxlength="30" placeholder="Пароль"/>
+            <ValidationMessage For="() => Model.Password" />
+            <i class='bx bx-hide eye-icon'></i>
+        </div>
+
+@*         <div class="field input-field">
+            <InputText @bind-Value="@CheckPassword" class="password" type="password" maxlength="30" placeholder="Повторите пароль" />
+            <ValidationMessage For="() => CheckPassword" />
+            <i class='bx bx-hide eye-icon'></i>
+        </div> *@
+
+        <div class="field button-field">
+            <button type="submit">Зарегистрироваться</button>
+        </div>
+    </EditForm>
+
+    <div class="form-link">
+        <span>Уже есть аккаунт? <a href="/login" class="link signup-link">Войти</a></span>
+    </div>
+</div>
+
+@code {
+    public const string RegisterFieldStyle =
+        "height: 100%; " +
+        "width: 100%; " +
+        "border: none; " +
+        "font-size: 16px; " +
+        "font-weight: 400; " +
+        "border-radius: 6px; " +
+        "outline: none; " +
+        "padding: 0 15px; " +
+        "border: 1px solid#CACACA;";
+
+    [CascadingParameter]
+    public HttpContext? HttpContext { get; set; }
+
+    [SupplyParameterFromForm]
+    public UserAccount Model { get; set; } = new();
+
+    private string? ErrorMessage;
+    private string? CheckPassword;
+
+    private List<UserAccount>? listUserAccounts;
+
+    private async Task Authenticate()
+    {
+        // if (Model.UserName == "")
+        // {
+        //     ErrorMessage = "Пожалуйста, введите логин";
+        //     return;
+        // }
+
+        // if (Model.Password == "")
+        // {
+        //     ErrorMessage = "Пожалуйста, введите пароль";
+        //     return;
+        // }
+        // if (Model.Password != CheckPassword)
+        // {
+        //     ErrorMessage = "Пароли не совпадают";
+        //     return;
+        // }
+
+        listUserAccounts = await apiClient.GetUser();
+        Console.WriteLine(listUserAccounts);
+        var userAccount = listUserAccounts.Where(x => x.UserName == Model.UserName).FirstOrDefault();
+
+        if (userAccount != null)
+        {
+            ErrorMessage = "Данный логин уже занят";
+            return;
+        }
+
+        await apiClient.SaveUser(Model);
+
+        var claims = new List<Claim>
+        {
+            new Claim(ClaimTypes.Name, Model.UserName)
+        };
+
+        var identity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+        var principal = new ClaimsPrincipal(identity);
+        await HttpContext.SignInAsync(principal);
+        //userService.SetUser(principal);
+        navigationManager.NavigateTo("/");
+    }
+}

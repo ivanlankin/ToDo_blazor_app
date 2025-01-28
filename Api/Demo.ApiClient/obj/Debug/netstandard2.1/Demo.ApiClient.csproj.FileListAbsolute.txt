@@ -1,0 +1,10 @@
+F:\gitlib\NewSol\Api\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.deps.json
+F:\gitlib\NewSol\Api\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.dll
+F:\gitlib\NewSol\Api\Demo.ApiClient\bin\Debug\netstandard2.1\Demo.ApiClient.pdb
+F:\gitlib\NewSol\Api\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.csproj.AssemblyReference.cache
+F:\gitlib\NewSol\Api\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\gitlib\NewSol\Api\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.AssemblyInfoInputs.cache
+F:\gitlib\NewSol\Api\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.AssemblyInfo.cs
+F:\gitlib\NewSol\Api\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.csproj.CoreCompileInputs.cache
+F:\gitlib\NewSol\Api\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.dll
+F:\gitlib\NewSol\Api\Demo.ApiClient\obj\Debug\netstandard2.1\Demo.ApiClient.pdb
